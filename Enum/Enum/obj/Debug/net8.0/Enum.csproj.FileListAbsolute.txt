@@ -1,0 +1,14 @@
+C:\Unitylearn\repos\Enum\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unitylearn\repos\Enum\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+C:\Unitylearn\repos\Enum\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+C:\Unitylearn\repos\Enum\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+C:\Unitylearn\repos\Enum\Enum\bin\Debug\net8.0\Enum.exe
+C:\Unitylearn\repos\Enum\Enum\bin\Debug\net8.0\Enum.deps.json
+C:\Unitylearn\repos\Enum\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+C:\Unitylearn\repos\Enum\Enum\bin\Debug\net8.0\Enum.dll
+C:\Unitylearn\repos\Enum\Enum\bin\Debug\net8.0\Enum.pdb
+C:\Unitylearn\repos\Enum\Enum\obj\Debug\net8.0\Enum.dll
+C:\Unitylearn\repos\Enum\Enum\obj\Debug\net8.0\refint\Enum.dll
+C:\Unitylearn\repos\Enum\Enum\obj\Debug\net8.0\Enum.pdb
+C:\Unitylearn\repos\Enum\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+C:\Unitylearn\repos\Enum\Enum\obj\Debug\net8.0\ref\Enum.dll

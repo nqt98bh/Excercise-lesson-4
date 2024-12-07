@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TGC\\source\\repos\\excercise lesson 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC56440F-3FDC-4284-A6EA-765BB63E3F72}|model 2- L4\\model 2- L4.csproj|c:\\users\\tgc\\source\\repos\\excercise lesson 4\\model 2- l4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC56440F-3FDC-4284-A6EA-765BB63E3F72}|model 2- L4\\model 2- L4.csproj|solutionrelative:model 2- l4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unitylearn\\C-Sharp-Practice-L5-non-Primative-Data-Types\\Non-Primitive Data Types_Q3_Strings\\Non-Primitive Data Types_Q3_Strings\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TGC\\source\\repos\\excercise lesson 4\\model 2- L4\\Program.cs",
+              "RelativeDocumentMoniker": "model 2- L4\\Program.cs",
+              "ToolTip": "C:\\Users\\TGC\\source\\repos\\excercise lesson 4\\model 2- L4\\Program.cs",
+              "RelativeToolTip": "model 2- L4\\Program.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAQwPwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:56:40.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "39f3cb80-3a7e-4e26-a345-296f89d1cffe",
+        "Display": 0,
+        "X": 58,
+        "Y": 59,
+        "Width": 1553,
+        "Height": 1029,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Unitylearn\\C-Sharp-Practice-L5-non-Primative-Data-Types\\Non-Primitive Data Types_Q3_Strings\\Non-Primitive Data Types_Q3_Strings\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Unitylearn\\C-Sharp-Practice-L5-non-Primative-Data-Types\\Non-Primitive Data Types_Q3_Strings\\Non-Primitive Data Types_Q3_Strings\\Program.cs",
+              "ToolTip": "C:\\Unitylearn\\C-Sharp-Practice-L5-non-Primative-Data-Types\\Non-Primitive Data Types_Q3_Strings\\Non-Primitive Data Types_Q3_Strings\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Unitylearn\\C-Sharp-Practice-L5-non-Primative-Data-Types\\Non-Primitive Data Types_Q3_Strings\\Non-Primitive Data Types_Q3_Strings\\Program.cs",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAAAJUBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:21:26.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

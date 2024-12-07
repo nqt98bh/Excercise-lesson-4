@@ -1,0 +1,28 @@
+C:\Users\TGC\source\repos\class\class\bin\Debug\net8.0\class.exe
+C:\Users\TGC\source\repos\class\class\bin\Debug\net8.0\class.deps.json
+C:\Users\TGC\source\repos\class\class\bin\Debug\net8.0\class.runtimeconfig.json
+C:\Users\TGC\source\repos\class\class\bin\Debug\net8.0\class.dll
+C:\Users\TGC\source\repos\class\class\bin\Debug\net8.0\class.pdb
+C:\Users\TGC\source\repos\class\class\obj\Debug\net8.0\class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGC\source\repos\class\class\obj\Debug\net8.0\class.AssemblyInfoInputs.cache
+C:\Users\TGC\source\repos\class\class\obj\Debug\net8.0\class.AssemblyInfo.cs
+C:\Users\TGC\source\repos\class\class\obj\Debug\net8.0\class.csproj.CoreCompileInputs.cache
+C:\Users\TGC\source\repos\class\class\obj\Debug\net8.0\class.dll
+C:\Users\TGC\source\repos\class\class\obj\Debug\net8.0\refint\class.dll
+C:\Users\TGC\source\repos\class\class\obj\Debug\net8.0\class.pdb
+C:\Users\TGC\source\repos\class\class\obj\Debug\net8.0\class.genruntimeconfig.cache
+C:\Users\TGC\source\repos\class\class\obj\Debug\net8.0\ref\class.dll
+C:\Unitylearn\repos\excercise lesson 4\class\class\bin\Debug\net8.0\class.exe
+C:\Unitylearn\repos\excercise lesson 4\class\class\bin\Debug\net8.0\class.deps.json
+C:\Unitylearn\repos\excercise lesson 4\class\class\bin\Debug\net8.0\class.runtimeconfig.json
+C:\Unitylearn\repos\excercise lesson 4\class\class\bin\Debug\net8.0\class.dll
+C:\Unitylearn\repos\excercise lesson 4\class\class\bin\Debug\net8.0\class.pdb
+C:\Unitylearn\repos\excercise lesson 4\class\class\obj\Debug\net8.0\class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unitylearn\repos\excercise lesson 4\class\class\obj\Debug\net8.0\class.AssemblyInfoInputs.cache
+C:\Unitylearn\repos\excercise lesson 4\class\class\obj\Debug\net8.0\class.AssemblyInfo.cs
+C:\Unitylearn\repos\excercise lesson 4\class\class\obj\Debug\net8.0\class.csproj.CoreCompileInputs.cache
+C:\Unitylearn\repos\excercise lesson 4\class\class\obj\Debug\net8.0\class.dll
+C:\Unitylearn\repos\excercise lesson 4\class\class\obj\Debug\net8.0\refint\class.dll
+C:\Unitylearn\repos\excercise lesson 4\class\class\obj\Debug\net8.0\class.pdb
+C:\Unitylearn\repos\excercise lesson 4\class\class\obj\Debug\net8.0\class.genruntimeconfig.cache
+C:\Unitylearn\repos\excercise lesson 4\class\class\obj\Debug\net8.0\ref\class.dll
